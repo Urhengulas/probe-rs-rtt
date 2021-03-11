@@ -5,4 +5,4 @@ members = [
 ]
 
 [patch.crates-io]
-probe-rs = { git = "https://github.com/probe-rs/probe-rs" }
+probe-rs = { git = "https://github.com/urhengulas/probe-rs", branch = "minimize-deps" }
